@@ -1,54 +1,87 @@
-# Pump.Fun Marketing Script
+Pump.Fun Marketing Automation Script
+This script is designed to automate marketing tasks on Pump.Fun without requiring a proxy. It ensures efficient and spam-free operations, making it a powerful tool for promoting your projects. The script performs the following actions:
 
-This script allows you to perform automated marketing tasks on **Pump.Fun** without needing a proxy, and works efficiently to avoid spam. It performs the following actions:
+Generates Random Comments: Posts a unique, randomized comment with your advertising message each time it runs.
 
-- **Generates a Random Comment:** Each time the script is executed, it posts a random comment, containing the main advertising phrase you wish to display.
-- **Extracts a Token from Pump.Fun:** The script connects to **Pump.Fun**, extracts the necessary token, and uses it for the subsequent actions.
-- **Creates a Random .GIF Image:** With every execution, it generates a random `.GIF` image with the specified text, adding a unique touch to your marketing strategy.
+Extracts Tokens from Pump.Fun: Automatically connects to Pump.Fun, extracts the necessary token, and uses it for subsequent actions.
 
-This tool is perfect for enhancing your marketing efforts on **Pump.Fun** and can be a great addition to your promotional activities.
+Creates Random .GIF Images: Generates a new .GIF image with your desired text every time the script is executed, adding a visually engaging element to your marketing strategy.
 
----
+This tool is ideal for enhancing your promotional efforts on Pump.Fun and ensuring your campaigns stand out.
 
-## Features:
-- **No Proxy Required:** The script works without the need for a proxy, ensuring seamless operations.
-- **Spam Prevention:** The design of the script ensures no spam is generated, providing a clean user experience.
-- **Randomized Comments:** Every execution posts a unique comment, which keeps your engagement dynamic and fresh.
-- **Token Extraction:** The script automatically extracts a token from the required website, making the process smooth and automated.
-- **GIF Generation:** A random .GIF with your desired text is created every time the script runs, making the advertising visually engaging.
+Features
+No Proxy Required: Operates seamlessly without the need for a proxy.
 
----
+Spam Prevention: Designed to avoid spam, ensuring a clean and professional user experience.
 
-## Demo
+Dynamic Comments: Posts unique, randomized comments to keep your engagement fresh and engaging.
 
-You can watch a demonstration of how the script works by visiting the following [YouTube video](https://www.youtube.com/watch?v=jVwwXeNl02s).
+Token Extraction: Automatically retrieves the required token from Pump.Fun, streamlining the process.
 
----
+GIF Generation: Creates a new .GIF image with your advertising text for every execution, making your promotions visually appealing.
 
-## Join Us!
+Demo
+Watch a demonstration of the script in action by visiting this YouTube video.
 
-For more details, discussions, or questions, feel free to join our [Telegram community](https://t.me/pumpfuntools2025). We'd love to have you onboard!
+Join Our Community
+For discussions, updates, or questions, join our Telegram community. We welcome your participation and feedback!
 
----
+Installation and Setup (Windows)
+Follow these steps to set up and run the script on your Windows system:
 
-## Contact
+1. Install Node.js
+The script requires Node.js to run. Follow these steps to install it:
 
-**Interested in purchasing the software at an incredible price?**  
-Feel free to reach out via the following contact methods for more information and to get your copy at a special price:
+Visit the official Node.js website and download the LTS version.
 
-- **Telegram**: [Pump.Fun Tools](https://t.me/pumpfuntools2025)
-- **Email**: [contact@pumpfuntools.com](mailto:contact@pumpfuntools.com) *(You can change this email as needed)*
+Run the installer and follow the on-screen instructions to complete the installation.
 
----
+After installation, open Command Prompt (CMD) and verify the installation by running:
 
-## Installation and Setup (For Windows)
+bash
+Copy
+node -v
+This should display the installed version of Node.js.
 
-Follow these steps to set up the script on your Windows system via CMD:
+2. Install Python
+The script also requires Python. Follow these steps to install it:
 
-### 1. Install Node.js
-To run the script, you need **Node.js** installed. Follow these steps:
-1. Visit the [Node.js website](https://nodejs.org/) and download the LTS version.
-2. Run the installer and follow the instructions to install Node.js.
-3. After installation, verify the installation by running the following command in CMD:
-   ```bash
-   node -v
+Visit the official Python website and download the latest version.
+
+Run the installer and ensure you check the box to Add Python to PATH during installation.
+
+Verify the installation by running:
+
+bash
+Copy
+python --version
+3. Install Google Chrome
+The script uses Google Chrome for automation. If you don't have it installed:
+
+Download and install Google Chrome from the official website.
+
+4. Run the Script
+Download or clone the script repository to your local machine.
+
+Open Command Prompt (CMD) and navigate to the script's directory:
+
+bash
+Copy
+cd path\to\script\directory
+Install the required dependencies by running:
+
+bash
+Copy
+npm install
+Start the script by running:
+
+bash
+Copy
+node marketingauto.js
+Join Us on Telegram
+For more information, support, or to purchase the software at a special price, join our Telegram community. We’re here to help!
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+This improved README.md provides a clear, professional, and user-friendly guide for setting up and using your script. If you need further adjustments or additional sections, feel free to ask! 🚀
