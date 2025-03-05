@@ -1,22 +1,22 @@
 Pump.Fun Marketing Automation Script
-This script is designed to automate marketing tasks on Pump.Fun without requiring a proxy. It ensures efficient and spam-free operations, making it a powerful tool for promoting your projects. The script performs the following actions:
+This script is designed to automate marketing tasks on Pump.Fun, making it easier to promote tokens and increase their visibility. It offers two main functionalities:
 
-Generates Random Comments: Posts a unique, randomized comment with your advertising message each time it runs.
+Send Marketing to Extracted Tokens: Automatically extracts tokens from Pump.Fun and sends promotional messages to them.
 
-Extracts Tokens from Pump.Fun: Automatically connects to Pump.Fun, extracts the necessary token, and uses it for subsequent actions.
+Send Random Comments to a Specific Token: Focuses on a single token (e.g., your own) by sending randomized comments to improve its visibility.
 
-Creates Random .GIF Images: Generates a new .GIF image with your desired text every time the script is executed, adding a visually engaging element to your marketing strategy.
-
-This tool is ideal for enhancing your promotional efforts on Pump.Fun and ensuring your campaigns stand out.
+The script is efficient, spam-free, and does not require a proxy to operate.
 
 Features
-No Proxy Required: Operates seamlessly without the need for a proxy.
+No Proxy Required: Works seamlessly without the need for a proxy.
 
 Spam Prevention: Designed to avoid spam, ensuring a clean and professional user experience.
 
-Dynamic Comments: Posts unique, randomized comments to keep your engagement fresh and engaging.
+Dynamic Comments: Generates unique, randomized comments for each execution.
 
-Token Extraction: Automatically retrieves the required token from Pump.Fun, streamlining the process.
+Token Extraction: Automatically extracts tokens from Pump.Fun for targeted marketing.
+
+Focus on Specific Tokens: Allows you to send comments to a specific token to boost its visibility.
 
 GIF Generation: Creates a new .GIF image with your advertising text for every execution, making your promotions visually appealing.
 
@@ -78,10 +78,18 @@ Start the script by running:
 bash
 Copy
 node marketingauto.js
+Usage
+Send Marketing to Extracted Tokens
+The script can automatically extract tokens from Pump.Fun and send promotional messages to them. This is ideal for reaching a broad audience.
+
+Send Random Comments to a Specific Token
+If you want to focus on a specific token (e.g., your own), the script can send randomized comments to it, improving its visibility and engagement.
+
 Join Us on Telegram
 For more information, support, or to purchase the software at a special price, join our Telegram community. We’re here to help!
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-This improved README.md provides a clear, professional, and user-friendly guide for setting up and using your script. If you need further adjustments or additional sections, feel free to ask! 🚀
+Trial Version
+This is a TRIAL version of the Pump.Fun Marketing Automation Script. For the full version with all features, join our Telegram community: @pumpfuntools2025.
