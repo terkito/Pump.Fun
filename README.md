@@ -21,7 +21,7 @@ Focus on Specific Tokens: Allows you to send comments to a specific token to boo
 GIF Generation: Creates a new .GIF image with your advertising text for every execution, making your promotions visually appealing.
 
 Demo
-Watch a demonstration of the script in action by visiting this YouTube video.
+Watch a demonstration of the script in action by visiting this YouTube video. https://www.youtube.com/watch?v=TQ9QGyd9NSk
 
 Join Our Community
 For discussions, updates, or questions, join our Telegram community. We welcome your participation and feedback!
